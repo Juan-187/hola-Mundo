@@ -1,3 +1,3 @@
 # hola-Mundo
 Mi primer repositorio de GitHub
-Me gustan: animal::persona:,y :música:.
+I love: coffee::pizza:, and :dancer:.
